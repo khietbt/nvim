@@ -4,3 +4,4 @@
 vim.opt.listchars = "tab:-,trail:•,precedes:←,extends:→,eol:↲,nbsp:␣,space:␣"
 vim.opt.relativenumber = false
 vim.opt.showbreak = "↪\\ "
+vim.opt.conceallevel = 0

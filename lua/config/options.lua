@@ -4,5 +4,5 @@
 vim.opt.colorcolumn = "120"
 vim.opt.conceallevel = 0
 vim.opt.listchars = "tab:-,trail:•,precedes:←,extends:→,eol:↲,nbsp:␣,space:␣"
-vim.opt.relativenumber = false
+-- vim.opt.relativenumber = false
 vim.opt.showbreak = "↪\\ "

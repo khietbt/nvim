@@ -17,6 +17,8 @@ return {
         "php",
         "rust",
         "scss",
+        "typescript",
+        "javascript",
         "sql",
         "svelte",
         "lua",
